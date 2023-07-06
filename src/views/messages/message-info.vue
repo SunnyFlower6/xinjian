@@ -68,12 +68,13 @@
           <span v-if="rowData.filepath == 'N' && rowData.filepath != '' " > 【数据导出已执行】</span>
           <span v-if="rowData.filepath != 'N' && rowData.filepath != '' " > 【数据导出未执行】</span>
         </div>
-        <div v-else-if="rowData.filetype == 'xml' ">
+        <div v-if="rowData.filetype == 'xml' ">
           点击此处下载→
           <a @click.stop="xmlexportData" v-if="rowData.filepath != '' ">数据导出</a>
           <span v-if="rowData.filepath == 'N' && rowData.filepath != '' " > 【数据导出已执行】</span>
           <span v-if="rowData.filepath != 'N' && rowData.filepath != '' " > 【数据导出未执行】</span>
         </div>
+        成功执行了
         {{rowData}}
       </Cell>
       <Cell v-if="rowData.path != null">
