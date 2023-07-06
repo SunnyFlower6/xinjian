@@ -7801,6 +7801,13 @@ module.exports = function buildFullPath(baseURL, requestedURL) {
 
 /***/ }),
 
+/***/ "88bd":
+/***/ (function(module, exports, __webpack_require__) {
+
+// extracted by mini-css-extract-plugin
+
+/***/ }),
+
 /***/ "88ee":
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -7972,13 +7979,6 @@ exports.write = function (buffer, value, offset, isLE, mLen, nBytes) {
   buffer[offset + i - d] |= s * 128
 }
 
-
-/***/ }),
-
-/***/ "96a1":
-/***/ (function(module, exports, __webpack_require__) {
-
-// extracted by mini-css-extract-plugin
 
 /***/ }),
 
@@ -8302,17 +8302,6 @@ module.exports = function (str, opts) {
 /***/ (function(module, exports, __webpack_require__) {
 
 // extracted by mini-css-extract-plugin
-
-/***/ }),
-
-/***/ "a500":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_node_modules_css_loader_index_js_ref_6_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_2_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_message_info_vue_vue_type_style_index_0_id_68334059_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("96a1");
-/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_node_modules_css_loader_index_js_ref_6_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_2_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_message_info_vue_vue_type_style_index_0_id_68334059_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_node_modules_css_loader_index_js_ref_6_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_2_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_message_info_vue_vue_type_style_index_0_id_68334059_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__);
-/* unused harmony reexport * */
- /* unused harmony default export */ var _unused_webpack_default_export = (_node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_node_modules_css_loader_index_js_ref_6_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_2_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_message_info_vue_vue_type_style_index_0_id_68334059_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0___default.a); 
 
 /***/ }),
 
@@ -10540,6 +10529,17 @@ function isnan (val) {
 }
 
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__("c8ba")))
+
+/***/ }),
+
+/***/ "b955":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_node_modules_css_loader_index_js_ref_6_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_2_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_message_info_vue_vue_type_style_index_0_id_6dd121b7_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("88bd");
+/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_node_modules_css_loader_index_js_ref_6_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_2_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_message_info_vue_vue_type_style_index_0_id_6dd121b7_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_node_modules_css_loader_index_js_ref_6_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_2_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_message_info_vue_vue_type_style_index_0_id_6dd121b7_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__);
+/* unused harmony reexport * */
+ /* unused harmony default export */ var _unused_webpack_default_export = (_node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_node_modules_css_loader_index_js_ref_6_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_2_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_message_info_vue_vue_type_style_index_0_id_6dd121b7_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0___default.a); 
 
 /***/ }),
 
@@ -58957,12 +58957,12 @@ var REFRESH_MSG = 'refresh';
     };
   }
 });
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"723a8cb7-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/views/messages/message-info.vue?vue&type=template&id=68334059&scoped=true&
-var message_infovue_type_template_id_68334059_scoped_true_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('Card',{staticClass:"message-card",attrs:{"bordered":false,"dis-hover":true}},[_c('CellGroup',[_c('Cell',{staticClass:"my-ivu-cell",attrs:{"title":'发送人：' + _vm.rowData.sender,"label":'接收人：' + _vm.rowData.receive,"extra":_vm.rowData.send_time}}),_c('p',{staticStyle:{"padding":"7px 16px"}},[_vm._v("\n      "+_vm._s(_vm.rowData.content)+"\n    ")]),(_vm.rowData.rpfilepath != null )?_c('Cell',{staticClass:"mynew-ivu-cell"},[(_vm.rowData.rpfilepath != null && _vm.rowData.rpfilepath != '' && _vm.rowData.filetype == 'html' )?_c('div',[_vm._v("\n        点击此处下载→\n        "),_c('a',{on:{"click":function($event){$event.stopPropagation();return _vm.rpexportData($event)}}},[_vm._v("数据导入报告")])]):_vm._e(),(_vm.rowData.rpfilepath != null && _vm.rowData.rpfilepath != '' && _vm.rowData.filetype == 'txt-gj' )?_c('div',[_vm._v("\n        点击此处下载→\n        "),_c('a',{on:{"click":function($event){$event.stopPropagation();return _vm.rpexportData($event)}}},[_vm._v("批量挂接报告")])]):_vm._e(),(_vm.rowData.rpfilepath != null && _vm.rowData.rpfilepath != '' && _vm.rowData.filetype == 'pdf' )?_c('div',[_vm._v("\n        点击此处下载→\n        "),_c('a',{on:{"click":function($event){$event.stopPropagation();return _vm.rpexportData($event)}}},[_vm._v("单机版数据包导入报告")])]):_vm._e()]):_vm._e(),(_vm.rowData.filepath != null )?_c('Cell',{staticClass:"mynew-ivu-cell"},[(_vm.rowData.ajfilepath != null && _vm.rowData.ajfilepath != 'NO' && _vm.rowData.filepath != 'NO' && _vm.rowData.filetype == 'xlsx' )?_c('div',[_vm._v("\n        点击此处下载→\n        "),(_vm.rowData.ajfilepath != null && _vm.rowData.filetype == 'xlsx' )?_c('a',{on:{"click":function($event){$event.stopPropagation();return _vm.ajexportData($event)}}},[_vm._v("案卷数据导出")]):_vm._e(),(_vm.rowData.ajfilepath == 'N' && _vm.rowData.ajfilepath != 'NO' )?_c('span',[_vm._v(" 【数据导出已执行】")]):_vm._e(),(_vm.rowData.ajfilepath != 'N' && _vm.rowData.ajfilepath != 'NO' )?_c('span',[_vm._v(" 【数据导出未执行】")]):_vm._e(),_c('br'),_vm._v("\n                    \n                    \n        "),(_vm.rowData.filepath != 'NO' )?_c('a',{on:{"click":function($event){$event.stopPropagation();return _vm.exportData($event)}}},[_vm._v("卷内数据导出")]):_vm._e(),(_vm.rowData.filepath == 'N' && _vm.rowData.filepath != 'NO' )?_c('span',[_vm._v(" 【数据导出已执行】")]):_vm._e(),(_vm.rowData.filepath != 'N' && _vm.rowData.filepath != 'NO' )?_c('span',[_vm._v(" 【数据导出未执行】")]):_vm._e()]):_vm._e(),(_vm.rowData.ajfilepath != null && _vm.rowData.filepath == 'NO' && _vm.rowData.filetype == 'xlsx' )?_c('div',[_vm._v("\n        点击此处下载→\n        "),(_vm.rowData.ajfilepath != null && _vm.rowData.filetype == 'xlsx' )?_c('a',{on:{"click":function($event){$event.stopPropagation();return _vm.ajexportData($event)}}},[_vm._v("案卷数据导出")]):_vm._e(),(_vm.rowData.ajfilepath == 'N' && _vm.rowData.ajfilepath != 'NO' )?_c('span',[_vm._v(" 【数据导出已执行】")]):_vm._e(),(_vm.rowData.ajfilepath != 'N' && _vm.rowData.ajfilepath != 'NO' )?_c('span',[_vm._v(" 【数据导出未执行】")]):_vm._e()]):_vm._e(),(_vm.rowData.filepath != null && _vm.rowData.ajfilepath == 'NO' && _vm.rowData.filetype == 'xlsx' )?_c('div',[_vm._v("\n        点击此处下载→\n        "),(_vm.rowData.filepath != null && _vm.rowData.filetype == 'xlsx' )?_c('a',{on:{"click":function($event){$event.stopPropagation();return _vm.exportData($event)}}},[_vm._v("卷内数据导出")]):_vm._e(),(_vm.rowData.filepath == 'N' && _vm.rowData.filepath != 'NO' )?_c('span',[_vm._v(" 【数据导出已执行】")]):_vm._e(),(_vm.rowData.filepath != 'N' && _vm.rowData.filepath != 'NO' )?_c('span',[_vm._v(" 【数据导出未执行】")]):_vm._e()]):(_vm.rowData.filetype == 'zip' )?_c('div',[_vm._v("\n        点击此处下载→\n        "),(_vm.rowData.filepath != '' )?_c('a',{on:{"click":function($event){$event.stopPropagation();return _vm.exportData($event)}}},[_vm._v("数据导出")]):_vm._e(),(_vm.rowData.filepath == 'N' && _vm.rowData.filepath != '' )?_c('span',[_vm._v(" 【数据导出已执行】")]):_vm._e(),(_vm.rowData.filepath != 'N' && _vm.rowData.filepath != '' )?_c('span',[_vm._v(" 【数据导出未执行】")]):_vm._e()]):_vm._e(),(_vm.rowData.filetype == 'xml' )?_c('div',[_vm._v("\n        点击此处下载→\n        "),(_vm.rowData.filepath != '' )?_c('a',{on:{"click":function($event){$event.stopPropagation();return _vm.xmlexportData($event)}}},[_vm._v("数据导出")]):_vm._e(),(_vm.rowData.filepath == 'N' && _vm.rowData.filepath != '' )?_c('span',[_vm._v(" 【数据导出已执行】")]):_vm._e(),(_vm.rowData.filepath != 'N' && _vm.rowData.filepath != '' )?_c('span',[_vm._v(" 【数据导出未执行】")]):_vm._e()]):_vm._e()]):_vm._e(),(_vm.rowData.path != null)?_c('Cell',[_c('a',{on:{"click":function($event){$event.stopPropagation();return _vm.transferClick($event)}}},[_vm._v("跳转")])]):_vm._e()],1)],1)}
-var message_infovue_type_template_id_68334059_scoped_true_staticRenderFns = []
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"723a8cb7-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/views/messages/message-info.vue?vue&type=template&id=6dd121b7&scoped=true&
+var message_infovue_type_template_id_6dd121b7_scoped_true_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('Card',{staticClass:"message-card",attrs:{"bordered":false,"dis-hover":true}},[_c('CellGroup',[_c('Cell',{staticClass:"my-ivu-cell",attrs:{"title":'发送人：' + _vm.rowData.sender,"label":'接收人：' + _vm.rowData.receive,"extra":_vm.rowData.send_time}}),_c('p',{staticStyle:{"padding":"7px 16px"}},[_vm._v("\n      "+_vm._s(_vm.rowData.content)+"\n    ")]),(_vm.rowData.rpfilepath != null )?_c('Cell',{staticClass:"mynew-ivu-cell"},[(_vm.rowData.rpfilepath != null && _vm.rowData.rpfilepath != '' && _vm.rowData.filetype == 'html' )?_c('div',[_vm._v("\n        点击此处下载→\n        "),_c('a',{on:{"click":function($event){$event.stopPropagation();return _vm.rpexportData($event)}}},[_vm._v("数据导入报告")])]):_vm._e(),(_vm.rowData.rpfilepath != null && _vm.rowData.rpfilepath != '' && _vm.rowData.filetype == 'txt-gj' )?_c('div',[_vm._v("\n        点击此处下载→\n        "),_c('a',{on:{"click":function($event){$event.stopPropagation();return _vm.rpexportData($event)}}},[_vm._v("批量挂接报告")])]):_vm._e(),(_vm.rowData.rpfilepath != null && _vm.rowData.rpfilepath != '' && _vm.rowData.filetype == 'pdf' )?_c('div',[_vm._v("\n        点击此处下载→\n        "),_c('a',{on:{"click":function($event){$event.stopPropagation();return _vm.rpexportData($event)}}},[_vm._v("单机版数据包导入报告")])]):_vm._e()]):_vm._e(),(_vm.rowData.filepath != null )?_c('Cell',{staticClass:"mynew-ivu-cell"},[(_vm.rowData.ajfilepath != null && _vm.rowData.ajfilepath != 'NO' && _vm.rowData.filepath != 'NO' && _vm.rowData.filetype == 'xlsx' )?_c('div',[_vm._v("\n        点击此处下载→\n        "),(_vm.rowData.ajfilepath != null && _vm.rowData.filetype == 'xlsx' )?_c('a',{on:{"click":function($event){$event.stopPropagation();return _vm.ajexportData($event)}}},[_vm._v("案卷数据导出")]):_vm._e(),(_vm.rowData.ajfilepath == 'N' && _vm.rowData.ajfilepath != 'NO' )?_c('span',[_vm._v(" 【数据导出已执行】")]):_vm._e(),(_vm.rowData.ajfilepath != 'N' && _vm.rowData.ajfilepath != 'NO' )?_c('span',[_vm._v(" 【数据导出未执行】")]):_vm._e(),_c('br'),_vm._v("\n                    \n                    \n        "),(_vm.rowData.filepath != 'NO' )?_c('a',{on:{"click":function($event){$event.stopPropagation();return _vm.exportData($event)}}},[_vm._v("卷内数据导出")]):_vm._e(),(_vm.rowData.filepath == 'N' && _vm.rowData.filepath != 'NO' )?_c('span',[_vm._v(" 【数据导出已执行】")]):_vm._e(),(_vm.rowData.filepath != 'N' && _vm.rowData.filepath != 'NO' )?_c('span',[_vm._v(" 【数据导出未执行】")]):_vm._e()]):_vm._e(),(_vm.rowData.ajfilepath != null && _vm.rowData.filepath == 'NO' && _vm.rowData.filetype == 'xlsx' )?_c('div',[_vm._v("\n        点击此处下载→\n        "),(_vm.rowData.ajfilepath != null && _vm.rowData.filetype == 'xlsx' )?_c('a',{on:{"click":function($event){$event.stopPropagation();return _vm.ajexportData($event)}}},[_vm._v("案卷数据导出")]):_vm._e(),(_vm.rowData.ajfilepath == 'N' && _vm.rowData.ajfilepath != 'NO' )?_c('span',[_vm._v(" 【数据导出已执行】")]):_vm._e(),(_vm.rowData.ajfilepath != 'N' && _vm.rowData.ajfilepath != 'NO' )?_c('span',[_vm._v(" 【数据导出未执行】")]):_vm._e()]):_vm._e(),(_vm.rowData.filepath != null && _vm.rowData.ajfilepath == 'NO' && _vm.rowData.filetype == 'xlsx' )?_c('div',[_vm._v("\n        点击此处下载→\n        "),(_vm.rowData.filepath != null && _vm.rowData.filetype == 'xlsx' )?_c('a',{on:{"click":function($event){$event.stopPropagation();return _vm.exportData($event)}}},[_vm._v("卷内数据导出")]):_vm._e(),(_vm.rowData.filepath == 'N' && _vm.rowData.filepath != 'NO' )?_c('span',[_vm._v(" 【数据导出已执行】")]):_vm._e(),(_vm.rowData.filepath != 'N' && _vm.rowData.filepath != 'NO' )?_c('span',[_vm._v(" 【数据导出未执行】")]):_vm._e()]):(_vm.rowData.filetype == 'zip' )?_c('div',[_vm._v("\n        点击此处下载→\n        "),(_vm.rowData.filepath != '' )?_c('a',{on:{"click":function($event){$event.stopPropagation();return _vm.exportData($event)}}},[_vm._v("数据导出")]):_vm._e(),(_vm.rowData.filepath == 'N' && _vm.rowData.filepath != '' )?_c('span',[_vm._v(" 【数据导出已执行】")]):_vm._e(),(_vm.rowData.filepath != 'N' && _vm.rowData.filepath != '' )?_c('span',[_vm._v(" 【数据导出未执行】")]):_vm._e()]):_vm._e(),(_vm.rowData.filetype == 'xml'  && _vm.rowData.ajfilepath != null && _vm.rowData.ajfilepath != 'NO')?_c('div',[_vm._v("\n      点击此处下载→\n      "),(_vm.rowData.filepath != '' )?_c('a',{on:{"click":function($event){$event.stopPropagation();return _vm.ajexportData($event)}}},[_vm._v("案卷数据导出")]):_vm._e(),(_vm.rowData.ajfilepath == 'N' && _vm.rowData.ajfilepath != '' )?_c('span',[_vm._v(" 【数据导出已执行】")]):_vm._e(),(_vm.rowData.ajfilepath != 'N' && _vm.rowData.ajfilepath != '' )?_c('span',[_vm._v(" 【数据导出未执行】")]):_vm._e()]):_vm._e(),(_vm.rowData.filetype == 'xml'  && _vm.rowData.filepath != null && _vm.rowData.filepath != 'NO')?_c('div',[_vm._v("\n        点击此处下载→\n        "),(_vm.rowData.filepath != '' )?_c('a',{on:{"click":function($event){$event.stopPropagation();return _vm.exportData($event)}}},[_vm._v("卷内数据导出")]):_vm._e(),(_vm.rowData.filepath == 'N' && _vm.rowData.filepath != '' )?_c('span',[_vm._v(" 【数据导出已执行】")]):_vm._e(),(_vm.rowData.filepath != 'N' && _vm.rowData.filepath != '' )?_c('span',[_vm._v(" 【数据导出未执行】")]):_vm._e()]):_vm._e()]):_vm._e(),(_vm.rowData.path != null)?_c('Cell',[_c('a',{on:{"click":function($event){$event.stopPropagation();return _vm.transferClick($event)}}},[_vm._v("跳转")])]):_vm._e()],1)],1)}
+var message_infovue_type_template_id_6dd121b7_scoped_true_staticRenderFns = []
 
 
-// CONCATENATED MODULE: ./src/views/messages/message-info.vue?vue&type=template&id=68334059&scoped=true&
+// CONCATENATED MODULE: ./src/views/messages/message-info.vue?vue&type=template&id=6dd121b7&scoped=true&
 
 // CONCATENATED MODULE: ./src/api/message.js
 
@@ -59159,6 +59159,12 @@ function _iterableToArrayLimit(arr, i) { if (typeof Symbol === "undefined" || !(
 
 function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
 
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -59542,8 +59548,8 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
 });
 // CONCATENATED MODULE: ./src/views/messages/message-info.vue?vue&type=script&lang=js&
  /* harmony default export */ var messages_message_infovue_type_script_lang_js_ = (message_infovue_type_script_lang_js_); 
-// EXTERNAL MODULE: ./src/views/messages/message-info.vue?vue&type=style&index=0&id=68334059&scoped=true&lang=css&
-var message_infovue_type_style_index_0_id_68334059_scoped_true_lang_css_ = __webpack_require__("a500");
+// EXTERNAL MODULE: ./src/views/messages/message-info.vue?vue&type=style&index=0&id=6dd121b7&scoped=true&lang=css&
+var message_infovue_type_style_index_0_id_6dd121b7_scoped_true_lang_css_ = __webpack_require__("b955");
 
 // CONCATENATED MODULE: ./src/views/messages/message-info.vue
 
@@ -59556,11 +59562,11 @@ var message_infovue_type_style_index_0_id_68334059_scoped_true_lang_css_ = __web
 
 var message_info_component = normalizeComponent(
   messages_message_infovue_type_script_lang_js_,
-  message_infovue_type_template_id_68334059_scoped_true_render,
-  message_infovue_type_template_id_68334059_scoped_true_staticRenderFns,
+  message_infovue_type_template_id_6dd121b7_scoped_true_render,
+  message_infovue_type_template_id_6dd121b7_scoped_true_staticRenderFns,
   false,
   null,
-  "68334059",
+  "6dd121b7",
   null
   
 )
