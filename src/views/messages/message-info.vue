@@ -3,7 +3,7 @@
     <CellGroup>
       <Cell
         class="my-ivu-cell"
-        :title="'发送人：' + rowData.sender"
+        :title="'发送人成功：' + rowData.sender"
         :label="'接收人：' + rowData.receive"
         :extra="rowData.send_time"
       ></Cell>
