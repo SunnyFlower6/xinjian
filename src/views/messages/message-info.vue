@@ -3,7 +3,7 @@
     <CellGroup>
       <Cell
         class="my-ivu-cell"
-        :title="'发送人成功：' + rowData.sender"
+        :title="'发送人：' + rowData.sender"
         :label="'接收人：' + rowData.receive"
         :extra="rowData.send_time"
       ></Cell>
@@ -74,8 +74,7 @@
           <span v-if="rowData.filepath == 'N' && rowData.filepath != '' " > 【数据导出已执行】</span>
           <span v-if="rowData.filepath != 'N' && rowData.filepath != '' " > 【数据导出未执行】</span>
         </div>
-        成功执行了
-        {{rowData}}
+
       </Cell>
       <Cell v-if="rowData.path != null">
         <a @click.stop="transferClick">跳转</a>
@@ -341,7 +340,7 @@ export default {
             this.rowData.filepath +
             '&fileType=' +
             this.rowData.filetype +
-            '&libId' +
+            '&libId=' +
             this.rowData.libid +
             '&id=' +
             this.rowData.id
